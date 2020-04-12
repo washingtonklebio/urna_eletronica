@@ -1,6 +1,24 @@
 # urna_eletronica
 Projeto de urna eletrônica para apresentação acadêmica. A urna possui todas as funcionalidades de uma urna convencional. 
 
+ - Efeito sonoro na votação tanto no clique das teclas quanto na finalização da votação.
+ 
+ - Login
+ 
+ - Crud de candidatos
+ 
+ - Relatórios
+ 
+ - Menu
+ 
+ - Painel de votação
+ 
+ - Apuração dos votos
+ 
+ - Reset das informações
+ 
+ - Trava de segurança
+
 ![Alt text](src/br/com/urna/img/login.JPG?raw=true "Tela de login")
 
 ![Alt text](src/br/com/urna/img/menu.JPG?raw=true "Tela de menu")
